@@ -1,0 +1,13 @@
+core_cm0.h:629:22:NVIC_EnableIRQ	16	static
+LampFunctions.h:19:6:setupPortAndPin_AF	16	static
+LampFunctions.h:45:6:setupPortAndPin_Output	16	static
+LampFunctions.h:65:6:setupUART	16	static
+LampFunctions.h:83:6:setupI2C	16	static
+LampFunctions.h:100:6:I2CStartTransmission	8	static
+LampFunctions.h:105:6:I2CStopTransmission	8	static
+LampFunctions.h:110:6:I2CTransmitChar	16	static
+LampFunctions.h:117:6:I2CTransmitCharNSS	16	static
+LampFunctions.h:122:6:I2CTransmitString	24	static
+main.c:42:6:delay	24	static
+main.c:52:5:main	8	static
+main.c:118:6:USART1_IRQHandler	8	static
